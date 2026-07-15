@@ -37,14 +37,14 @@ function AboutCard() {
             my <span style={{ color: "#FFD700", fontWeight: "600" }}>HSC</span>{" "}
             from <span style={{ color: "#FFD700", fontWeight: "600" }}>Cambrian College, Chittagong</span>.
             <br />
-            Currently, I’m pursuing a{" "}
-            <span style={{ color: "#FFD700", fontWeight: "600" }}>
-              B.Sc in Computer Science & Engineering
-            </span>{" "}
-            at the{" "}
-            <span style={{ color: "#FFD700", fontWeight: "600" }}>
-              University of Creative Technology, Chittagong
-            </span>.
+           I earned my{" "}
+  <span style={{ color: "#FFD700", fontWeight: "600" }}>
+  B.Sc in Computer Science & Engineering
+</span>{" "}
+from the{" "}
+<span style={{ color: "#FFD700", fontWeight: "600" }}>
+  University of Creative Technology, Chittagong
+</span>, where I built a strong foundation in software development, algorithms, databases, and modern web technologies.
             <br />
             I’m passionate about <span style={{ color: "#FFD700", fontWeight: "600" }}>Machine Learning</span>,{" "}
             <span style={{ color: "#FFD700", fontWeight: "600" }}>Deep Learning</span>, and Artificial Intelligence.
